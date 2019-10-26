@@ -1,3 +1,5 @@
+# PROJECT HAS BEEN REUPLOAD TO GITHUB AND HAS BEEN DISCONTINUED IN 2018
+
 # Omni LITE
 
 ![omni lite](omni_lite_logo.png)
